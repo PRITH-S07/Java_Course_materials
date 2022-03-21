@@ -22,3 +22,7 @@ class MyException extends Exception{
         return("Exception number = "+ a);
     }
 }
+
+
+/* Output is:
+Exception number = 5 */
